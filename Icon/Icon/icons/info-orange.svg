@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="Layer_1" data-name="Layer 1" viewBox="0 0 20 20">
+    <defs>
+        <style>
+            .cls-1 {
+                fill: #F6A019;
+            }
+        </style>
+    </defs>
+    <title>info icon</title>
+    <path class="cls-1" d="M10,1a9,9,0,1,1-9,9,9,9,0,0,1,9-9m0-1A10,10,0,1,0,20,10,10,10,0,0,0,10,0h0Z" transform="translate(0 0)"/>
+    <path class="cls-1" d="M11.12,4.16V6H8.88V4.16h2.24ZM11.05,7.25v7H9v-7h2.1Z" transform="translate(0 0)"/>
+</svg>

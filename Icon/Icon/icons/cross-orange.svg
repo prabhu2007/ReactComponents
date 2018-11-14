@@ -1,0 +1,11 @@
+<svg id="Close_Button" data-name="Close Button" xmlns="http://www.w3.org/2000/svg" width="26" height="26" viewBox="0 0 26 26">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f69f19;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="Rounded_Rectangle_10_copy" data-name="Rounded Rectangle 10 copy" class="cls-1" d="M1.276,0.082L25.914,24.72a1.062,1.062,0,0,1-1.2,1.2L0.074,1.284a0.761,0.761,0,0,1,.3-0.9A0.76,0.76,0,0,1,1.276.082Zm23.43,0L0.067,24.723a0.761,0.761,0,0,0,.3.9,0.761,0.761,0,0,0,.9.3L25.908,1.286a0.76,0.76,0,0,0-.3-0.9A0.761,0.761,0,0,0,24.706.085Z"/>
+</svg>

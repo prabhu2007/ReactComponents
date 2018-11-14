@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="25.5" height="18.875" viewBox="0 0 25.5 18.875">
+  <defs>
+    <style>
+      .cls-1 {
+        filter: url(#filter);
+      }
+
+      .cls-2 {
+        fill: #7ab800;
+        fill-rule: evenodd;
+      }
+    </style>
+    <filter id="filter" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#7ab800"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Tick_copy_2" data-name="Tick copy 2" class="cls-1">
+    <path id="Rounded_Rectangle_6" data-name="Rounded Rectangle 6" class="cls-2" d="M5.951,9.437l6.724,4.73a1.411,1.411,0,0,1,.161,2.074l-2.2,2.478a1.631,1.631,0,0,1-2.2.171L0.269,11.181a0.705,0.705,0,0,1-.08-1.037l0.255-.281A4.079,4.079,0,0,1,5.951,9.437Z" transform="translate(0 -0.375)"/>
+    <path id="Rounded_Rectangle_6_copy" data-name="Rounded Rectangle 6 copy" class="cls-2" d="M24.928,1.247l0.3,0.238a0.706,0.706,0,0,1,.08,1.037l-14.664,16.2a1.631,1.631,0,0,1-2.2.171L6.959,17.7A1.411,1.411,0,0,1,6.8,15.625L19.421,1.674A4.079,4.079,0,0,1,24.928,1.247Z" transform="translate(0 -0.375)"/>
+  </g>
+</svg>
